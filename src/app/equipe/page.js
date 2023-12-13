@@ -8,7 +8,7 @@ export default function Home() {
     <div>
       <Header/>
       <main>
-        Pagina principal digitar o codigo aqui
+        Pagina da equipe codigo aqui
       </main>
       <Footer/>
     </div>
