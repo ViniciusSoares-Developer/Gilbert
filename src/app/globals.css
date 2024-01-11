@@ -1,0 +1,22 @@
+#imagem1, #imagem2 {
+    height: 90%;
+    width: 95%;
+    border: 10px solid #318ce7;
+    margin-left: 4%;
+    
+}
+h1 {
+    text-align: center;
+    
+}
+
+#Paciente {
+   width: 50%;
+   margin-left: 25%;
+}
+
+#Preta {
+    height: 60%;
+    width: 100%;
+
+}
